@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaf2ff;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    color: #1e40af;
+    font-size: 36px;
+}
+
+p {
+    color: #333;
+    font-size: 20px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #2563eb;
+}nav {
+    background-color: #1e40af;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 18px;
+}.about {
+    background-color: white;
+    padding: 25px;
+    margin: 30px auto;
+    max-width: 600px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px #cccccc;
+}
+
+.about h2 {
+    color: #1e40af;
+}.skills {
+    background-color: white;
+    padding: 25px;
+    margin: 30px auto;
+    max-width: 600px;
+    border-radius: 15px;
+}
+
+.skills h2 {
+    color: #1e40af;
+}
+
+.skill-box p {
+    background-color: #dbeafe;
+    padding: 12px;
+    margin: 10px;
+    border-radius: 8px;
+}.contact {
+    background-color: white;
+    padding: 25px;
+    margin: 30px auto;
+    max-width: 600px;
+    border-radius: 15px;
+}
+
+.contact h2 {
+    color: #1e40af;
+}
+
+button {
+    background-color: #1e40af;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
